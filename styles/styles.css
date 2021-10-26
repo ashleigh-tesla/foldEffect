@@ -45,6 +45,6 @@ span {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.card:hover span {
+.card .myself:hover span {
     color: aqua;
 }
