@@ -40,7 +40,11 @@ body {
 }
 
 span {
-    color: aqua;
+    color: #fff;
     font-size: 22px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card:hover span {
+    color: aqua;
 }
